@@ -13,8 +13,8 @@
 
 
 # 기술 스택
+![ComicBookLists](https://github.com/jeong9745/ComicBookLists/assets/156148169/8c046e43-e68f-489f-b6d0-4c6d7e625547)
 
-<img width="610" alt="cafe-bom 기술 스택" src="https://github.com/cafe-bom/cafe-bom-yesun/assets/108933466/b505b100-e18e-4851-8937-e851f57369fd">
 
 <br/>
 <br/>
