@@ -21,12 +21,6 @@
 
 <br/>
 
-# 사용 언어
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong9745)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
 # 주요 기능
 
 ### 데이터 추가
