@@ -4,19 +4,27 @@
 > 누구나 자유롭게 Book List를 작성할 수 있는 게시판입니다. \
 > 사용자는 Book List를 추가, 수정, 삭제할 수 있으며 메인 페이지에서 List 형태로 모든 목록을 확인할 수 있습니다.
 > 
-> Node.js의 Express 프레임워크를 사용해 ,\
-> Docker, AWS, S3 등을 이용해 서버를 배포했습니다.
+> 해당 코드는 HTML 5.0, CSS 3.0, java, JavaScript 를 사용하여 웹페이지를 출력했으며, \
+> Node.js와 Express를 사용하여 서버를 띄운 간단한 웹 애플리케이션입니다. 
+> 주요 기능은 데이터의 추가, 수정, 삭제입니다.
 
 > ### 개발 기간 및 인원
 > 23.12.20 ~ 23.12.20 (1일) \
 > 풀스택 1명
 
+<br/>
 
 # 기술 스택
-![ComicBookLists](https://github.com/jeong9745/ComicBookLists/assets/156148169/8c046e43-e68f-489f-b6d0-4c6d7e625547)
 
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 <br/>
+
+# 사용 언어
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong9745)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 # 주요 기능
@@ -37,6 +45,7 @@
 - 선택한 책의 정보는 해당 ID를 기준으로 데이터베이스에서 삭제된다.
 - 삭제가 완료되면 홈 페이지로 리디렉션된다.
 
+<br/>
 
 # 추가 구현하고 싶은 기능
 
